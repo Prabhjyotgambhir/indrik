@@ -1,0 +1,27 @@
+.navbar {
+	margin-bottom: 0px !important;
+	padding: 0px !important;
+	border-radius: 0px !important;
+}
+
+.navbar-nav {
+	float: right !important;
+}
+
+.navbar-default {
+	background-color: #1c1c1c;
+	border: none;
+}
+
+.navbar-default .navbar-nav > li > a {
+	color: white;
+}
+
+.navbar-default .navbar-nav > .active > a {
+	background-color: #7e7e7e;
+}
+
+.navbar-brand {
+	color: white;
+	font-size: 20px;
+}
